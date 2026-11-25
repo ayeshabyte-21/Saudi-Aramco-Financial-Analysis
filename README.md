@@ -16,17 +16,6 @@ Objectives
 - Explore the relationship between oil prices, hydrocarbon production, and revenue.
 - Present findings through interactive dashboards and a final report.
 
-Project Deliverables
-
-| Folder | Deliverable | Format |
-|---|---|---|
-| 01_Excel | Financial Analysis Workbook | `.xlsx` |
-| 02_SQL | SQL Analysis Script | `.sql` |
-| 03_Python | Python Analysis | `.ipynb`, `.xlsx` |
-| 04_Power_BI | Interactive Dashboard | `.pbix`, `.pdf` |
-| 05_Tableau | Tableau Dashboard | `.twbx` |
-| 06_Final_Report | Final Financial Analysis Report | `.docx`, `.pdf` |
-
 Key Findings
 | Metric | 2022 | 2025 | Change |
 |---|---:|---:|---:|
@@ -38,6 +27,17 @@ Key Findings
 | Current Ratio | 2.59 | 2.00 | -0.59 |
 | Free Cash Flow (SAR million) | 556,991 | 320,354 | -42.49% |
 | Dividend Coverage | 1.98 | 1.00 | -0.98 |
+
+Project Deliverables
+
+| Folder | Deliverable | Format |
+|---|---|---|
+| 01_Excel | Financial Analysis Workbook | `.xlsx` |
+| 02_SQL | SQL Analysis Script | `.sql` |
+| 03_Python | Python Analysis | `.ipynb`, `.xlsx` |
+| 04_Power_BI | Interactive Dashboard | `.pbix`, `.pdf` |
+| 05_Tableau | Tableau Dashboard | `.twbx` |
+| 06_Final_Report | Final Financial Analysis Report | `.docx`, `.pdf` |
 
 Conclusion
 
@@ -52,7 +52,6 @@ Financial and operational information was collected from Saudi Aramco's official
 Conclusion
 
 The analysis indicates that Saudi Aramco maintained a reasonable liquidity and equity position during the period studied, while experiencing declining profitability and pressure on free cash flow coverage.
-
 This project demonstrates the application of data analysis techniques to real-world financial information, from data preparation and querying to visualization and business recommendations.
 
 

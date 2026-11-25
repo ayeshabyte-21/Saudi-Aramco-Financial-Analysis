@@ -39,22 +39,14 @@ Project Deliverables
 | 05_Tableau | Tableau Dashboard | `.twbx` |
 | 06_Final_Report | Final Financial Analysis Report | `.docx`, `.pdf` |
 
-Conclusion
-
-Saudi Aramco maintained a reasonable financial position during 2021–2025, but declining profitability and pressure on free cash flow highlighted areas requiring attention. This project demonstrates the use of Excel, SQL, Python, Power BI, and Tableau to turn real-world financial data into meaningful insights.
 
 Data Source
-
 Financial and operational information was collected from Saudi Aramco's official annual reports for 2021–2025.
 
 [Saudi Aramco – Annual Reports](https://www.aramco.com/en/investors/annual-report/downloads)
 
 Conclusion
+Saudi Aramco maintained a reasonable financial position during 2021–2025, but declining profitability and pressure on free cash flow highlighted areas requiring attention. This project demonstrates the use of Excel, SQL, Python, Power BI, and Tableau to turn real-world financial data into meaningful insights.
 
-The analysis indicates that Saudi Aramco maintained a reasonable liquidity and equity position during the period studied, while experiencing declining profitability and pressure on free cash flow coverage.
-This project demonstrates the application of data analysis techniques to real-world financial information, from data preparation and querying to visualization and business recommendations.
-
-
-
-**Project Type:** Financial Data Analysis  
-**Analysis Period:** 2021–2025
+Project Type: Financial Data Analysis  
+Analysis Period: 2021–2025

@@ -16,33 +16,32 @@ Objectives
 - Explore the relationship between oil prices, hydrocarbon production, and revenue.
 - Present findings through interactive dashboards and a final report.
 
-Tools & Technologies
+Project Deliverables
 
-| Tool | Application |
-
-| Excel | Data organization and financial calculations |
-| MySQL | Data querying and SQL analysis |
-| Python | Data analysis and visualization |
-| Power BI | Interactive financial dashboard |
-| Tableau | Financial and operational dashboards |
+| Folder | Deliverable | Format |
+|---|---|---|
+| 01_Excel | Financial Analysis Workbook | `.xlsx` |
+| 02_SQL | SQL Analysis Script | `.sql` |
+| 03_Python | Python Analysis | `.ipynb`, `.xlsx` |
+| 04_Power_BI | Interactive Dashboard | `.pbix`, `.pdf` |
+| 05_Tableau | Tableau Dashboard | `.twbx` |
+| 06_Final_Report | Final Financial Analysis Report | `.docx`, `.pdf` |
 
 Key Findings
+| Metric | 2022 | 2025 | Change |
+|---|---:|---:|---:|
+| Revenue (SAR million) | 2,006,955 | 1,559,342 | -22.30% |
+| Operating Income (SAR million) | 1,144,077 | 706,822 | -38.22% |
+| Net Income (SAR million) | 604,005 | 350,210 | -42.02% |
+| Operating Profit Margin | 57.01% | 45.33% | -11.68 pp |
+| Net Profit Margin | 30.10% | 22.46% | -7.64 pp |
+| Current Ratio | 2.59 | 2.00 | -0.59 |
+| Free Cash Flow (SAR million) | 556,991 | 320,354 | -42.49% |
+| Dividend Coverage | 1.98 | 1.00 | -0.98 |
 
-- Revenue declined by approximately 22.30% between 2022 and 2025.
-- Operating profit margin decreased from 57.01% to 45.33%.
-- Net profit margin decreased from 30.10% to 22.46%.
-- Total operating costs declined, but their share of revenue increased from 55.92% to 61.85%.
-- The current ratio stood at 2.00 in 2025.
-- Free cash flow was approximately equal to dividends in 2025, with a small shortfall.
+Conclusion
 
-Project Structure
-
-- 01_Excel – Financial analysis workbook
-- 02_SQL – SQL analysis script
-- 03_Python – Jupyter Notebook and Python analysis workbook
-- 04_Power_BI – Power BI dashboard and PDF export
-- 05_Tableau – Packaged Tableau workbook
-- 06_Final_Report – Final report in Word and PDF formats
+Saudi Aramco maintained a reasonable financial position during 2021–2025, but declining profitability and pressure on free cash flow highlighted areas requiring attention. This project demonstrates the use of Excel, SQL, Python, Power BI, and Tableau to turn real-world financial data into meaningful insights.
 
 Data Source
 

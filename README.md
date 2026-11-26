@@ -39,6 +39,19 @@ Project Deliverables
 | 05_Tableau | Tableau Dashboard | `.twbx` |
 | 06_Final_Report | Final Financial Analysis Report | `.docx`, `.pdf` |
 
+## Dashboard Previews
+
+### Power BI
+
+![Power BI Dashboard Page 1](Screenshots/PowerBI_Dashboard_Page1.png)
+
+![Power BI Dashboard Page 2](Screenshots/PowerBI_Dashboard_Page2.png)
+
+### Tableau
+
+![Tableau Dashboard 1](Screenshots/Tableau_Dashboard_1.png)
+
+![Tableau Dashboard 2](Screenshots/Tableau_Dashboard_2.png)
 
 Data Source
 Financial and operational information was collected from Saudi Aramco's official annual reports for 2021–2025.

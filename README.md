@@ -1,12 +1,12 @@
-Saudi Aramco – Financial Analysis (2021–2025)
+## Saudi Aramco – Financial Analysis (2021–2025)
 
-Project Overview
+## Project Overview
 
 A comprehensive financial and operational analysis of Saudi Aramco covering the five-year period from 2021 to 2025.
 
 This project examines the company's financial performance, profitability, cost structure, liquidity, cash flow, and operational drivers using multiple data analytics tools.
 
-Objectives
+## Objectives
 
 - Analyze revenue, operating income, and net income trends.
 - Evaluate profitability through financial ratios.
@@ -16,7 +16,7 @@ Objectives
 - Explore the relationship between oil prices, hydrocarbon production, and revenue.
 - Present findings through interactive dashboards and a final report.
 
-Key Findings
+## Key Findings
 | Metric | 2022 | 2025 | Change |
 |---|---:|---:|---:|
 | Revenue (SAR million) | 2,006,955 | 1,559,342 | -22.30% |
@@ -28,7 +28,7 @@ Key Findings
 | Free Cash Flow (SAR million) | 556,991 | 320,354 | -42.49% |
 | Dividend Coverage | 1.98 | 1.00 | -0.98 |
 
-Project Deliverables
+## Project Deliverables
 
 | Folder | Deliverable | Format |
 |---|---|---|
@@ -58,7 +58,19 @@ Financial and operational information was collected from Saudi Aramco's official
 
 [Saudi Aramco – Annual Reports](https://www.aramco.com/en/investors/annual-report/downloads)
 
-Conclusion
+## Skills Demonstrated
+
+- Financial statement analysis
+- Data cleaning and preparation
+- SQL querying, joins, CTEs, and window functions
+- Python data analysis and visualization
+- Financial ratio and profitability analysis
+- Dashboard development and data visualization
+- Exploratory data analysis
+- Business insights and recommendations
+- Data storytelling and reporting
+
+## Conclusion
 Saudi Aramco maintained a reasonable financial position during 2021–2025, but declining profitability and pressure on free cash flow highlighted areas requiring attention. This project demonstrates the use of Excel, SQL, Python, Power BI, and Tableau to turn real-world financial data into meaningful insights.
 
 Project Type: Financial Data Analysis  
